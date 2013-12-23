@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spikit</string>
+    <string name="action_settings">Settings</string> 
+    <string name="title_activity_spikit">Spikit</string>
+    <string name="title_activity_notepad">Notepad</string>
+    <string name="title_activity_maps"></string>
+    <string name="title_activity_camera">Camera</string>
+    <string name="title_activity_spikit_camera">SpikitCamera</string>
+
+</resources>
